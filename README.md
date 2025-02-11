@@ -26,7 +26,7 @@ If you feel this book is for you, get your [copy](https://www.amazon.in/XGBoost-
 All of the code is organized into folders.
 
 The code will look like the following:
-```
+```python
 import seaborn as sns
 sns.displot( irisdata, x="Species",
    discrete = True, hue="Species", 
